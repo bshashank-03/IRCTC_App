@@ -10,13 +10,13 @@ Login and authentication
 
 View list of booked tickets
 
-Train Management
+••Train Management:
 
 Add, update, and search trains
 
 Each train has an ID, number, list of stations, timing, and seat availability
 
-Booking Services
+••Booking Services:
 
 Book and cancel tickets
 
@@ -24,7 +24,7 @@ Check available seats
 
 View all bookings by a user
 
-Data Handling
+••Data Handling:
 
 Load/save user and train data to/from files
 
